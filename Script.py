@@ -159,7 +159,7 @@ Nᴀᴍᴇ - {}"""
     
 • 𝗗𝗘𝗩 : <a href=https://t.me/OWNER_CC_BOT>
 • ᴜꜱᴇʀɴᴀᴍᴇ : <a href=https://t.me/DMWITHGOKUL>ᴏᴡɴᴇʀ</a>
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/CINEMACCBOTUPDATES'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -208,8 +208,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @CINEMACCBOTUPDATES
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @CINEMACCBOTDISCUSSION
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
